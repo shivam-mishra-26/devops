@@ -13,7 +13,7 @@ int main()
 		sum+=rem;
 		temp/=10;
 	}
-	cout<<"Sum of Digit :- <<sum<<endl;
+	cout<<"Sum of Digit :-" <<sum<<endl;
 
 	return 0;
 }
